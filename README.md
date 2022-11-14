@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoLipeng&layout=compact&theme=dark&hide=html,Assembly,Makefile,RenderScript,C,C++" />
+  <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoLipeng&langs_count=8&layout=compact&theme=dark&hide=html,Assembly,Makefile,RenderScript,C++,LLVM,CSS" />
 </a>
