@@ -1,5 +1,5 @@
 
-
+- 🔭 I’m currently working on Qiniu
 <!--
 **HugoLipeng/HugoLipeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=HugoLipeng&show_icons=true&count_private=true&theme=dark" />
 </a>
@@ -21,3 +22,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoLipeng&langs_count=8&layout=compact&theme=dark&hide=html,Assembly,Makefile,RenderScript,C++,LLVM,CSS" />
 </a>
+-->
